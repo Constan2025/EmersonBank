@@ -1,0 +1,4 @@
+/* estilos mínimos */
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; margin:0; color:#111827; background:#f8fafc; }
+input, button { padding:8px; border:1px solid #d1d5db; border-radius:6px; }
+input:focus, button:focus { outline: 2px solid rgba(59,130,246,0.2); }
